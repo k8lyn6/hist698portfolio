@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "The Value of Design in Scholarship"
 date: 2017-01-26
 categories:

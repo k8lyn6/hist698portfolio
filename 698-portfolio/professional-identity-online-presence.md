@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Professional Identity and Online Presence"
 date: 2017-01-19
 categories:
