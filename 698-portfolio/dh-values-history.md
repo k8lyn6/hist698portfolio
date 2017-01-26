@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: "Digital Humanities Values and History"
 date: 2017-01-09
 categories:

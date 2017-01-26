@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: "The Value of Design in Scholarship"
 date: 2017-01-26
 categories:
@@ -19,4 +19,4 @@ Although I see the value in design in general, I have a difficult time determini
 
 As we move towards non-traditional means of publication, though, the academic has more control over the design of their work. Creating blogs or online portfolios provides the opportunity to use some of these design ideas purposefully to convey certain meanings, and scholars can (and should!) take advantage of that. The tools we learn about in this class may need to be incorporated into the textual part of an argument differently than with traditional publishing. Things such as the design of captions on screenshots of tutorials, or links to other helpful scholarship, can be designed in a way that enhances the experience for the user and conveys additional meaning to support an argument.
 
-This means learning a little more about design to ensure that their information is presented in a way that is easy to follow and navigate and conveys the meaning they want to convey. I do not think it is necessary to become an expert designer, unless you find it particularly interesting. Design can be a helpful tool to present your work in an easier-to-navigate and more purposeful way. 
+This means learning a little more about design to ensure that their information is presented in a way that is easy to follow and navigate and conveys the meaning they want to convey. I do not think it is necessary to become an expert designer, unless you find it particularly interesting. Design can be a helpful tool to present your work in an easier-to-navigate and more purposeful way.
