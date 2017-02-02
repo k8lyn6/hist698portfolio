@@ -2,8 +2,8 @@
 layout: page
 title: "resume"
 ---
-
-# Resume
+{ % include head.html %}
+{ % include nav.html %}
 
 ## QUALIFICATIONS SUMMARY
 

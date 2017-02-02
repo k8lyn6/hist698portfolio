@@ -1,10 +1,7 @@
 ---
 layout: page
 title: "Blog Posts"
-date: 2017-01-19
 ---
-
-# Blog Posts
 
 [Digital Humanities Values and History](698-portfolio/dh-values-history) (January 12, 2017)
 

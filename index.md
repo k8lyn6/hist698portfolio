@@ -1,10 +1,7 @@
 ---
 layout: page
-title: "home"
-date: 2017-01-19
+title: "Kaitlyn Sisk"
 ---
-
-# Kaitlyn Sisk
 
 - [about](about)
 - [blogs](blogs)

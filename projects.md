@@ -3,4 +3,4 @@ layout: page
 title: "projects"
 ---
 
-# Projects
+Projects will go here.

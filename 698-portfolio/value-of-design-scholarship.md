@@ -1,11 +1,8 @@
 ---
-layout: blog
+layout: page
 title: "The Value of Design in Scholarship"
 date: 2017-01-26
-categories:
 ---
-
-# The Value of Design in Scholarship
 
 I, personally, have never been very good at design, or at least the "aesthetically pleasing" parts of design. However, one of the most valuable things I was reminded of in Lupton's book _Thinking with Type_ is that there are semantic codes and meanings embedded in design choices. The way in which information is presented and laid out on a page (either physically or digitally) affects how the reader interprets or finds the information. Words themselves have meaning, but so can the design of the information presented.
 
