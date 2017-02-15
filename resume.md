@@ -1,9 +1,7 @@
 ---
-layout: page
-title: "resume"
+layout: default
+title: resume
 ---
-{ % include head.html %}
-{ % include nav.html %}
 
 ## QUALIFICATIONS SUMMARY
 

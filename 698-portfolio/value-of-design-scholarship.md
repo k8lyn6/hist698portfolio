@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "The Value of Design in Scholarship"
+layout: default
+title: The Value of Design in Scholarship
 date: 2017-01-26
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "GIS in Humanities"
+layout: default
+title: GIS in Humanities
 date: 2017-02-9
 ---
 

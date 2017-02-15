@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Kaitlyn Sisk"
+layout: default
+title: Home
 ---
 
 - [about](about)

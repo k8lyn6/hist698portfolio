@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Digital Humanities Values and History"
+layout: default
+title: Digital Humanities Values and History
 date: 2017-01-09
 categories:
 ---
