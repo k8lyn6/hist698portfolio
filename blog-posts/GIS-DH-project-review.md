@@ -3,9 +3,7 @@ layout: page
 title: "GIS DH project reviews"
 ---
 
-# GIS DH Project Reviews
-
-## [Animated Atlas of African History](http://www.brown.edu/Research/AAAH/index.htm)
+# [Animated Atlas of African History](http://www.brown.edu/Research/AAAH/index.htm)
 
 The Animated Atlas of African History presents a number of different themes of African history from 1879-2002 in map form, such as territory names, changing boundaries, conflicts, and economic and demographic trends.
 
@@ -16,7 +14,7 @@ Their sources and notes sections extensively cite the data used for the maps. Th
 The website overall is simple but easy to navigate and clear, which helps the user feel at ease when using the site and helps establish its credibility. The site itself is usable, but the map has a few kinks. I found it difficult to navigate at first. There was a help window that appeared when I first got to the page, but it disappeared and I could not find it again when I needed help. Some of the buttons on the map do not work.
 
 
-## [Texas Slavery Project](http://www.texasslaveryproject.org/)
+# [Texas Slavery Project](http://www.texasslaveryproject.org/)
 
 Although I am familiar with this project from my last DH class, I thought it would be interesting to revisit it. The Texas Slavery Project contains a map on "the changing flows of enslaved and slaveholder populations in Texas over time."
 
@@ -29,7 +27,7 @@ I will admit that the colors are slightly off-putting at first. However, it kind
 
 The shading of the map along with the key is a little confusing. I understand what "shaded by total slaves" and "shaded by total slaveholders" means, but I don't understand the rest of them. I feel like the map could have been separated into multiple maps to make it clearer to the user what is depicted.
 
-## [Driving Through Time](http://docsouth.unc.edu/blueridgeparkway/)
+# [Driving Through Time](http://docsouth.unc.edu/blueridgeparkway/)
 
 The Driving Through Time project attempts to root primary sources within their location on the Blue Ridge Parkway. Rather than use maps as a way to research or analyze, this project appears to be pure visualization to give the user the experience of driving the Blue Ridge Parkway through time as a "digital tourist."
 
