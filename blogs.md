@@ -10,3 +10,5 @@ title: "Blog Posts"
 [Value of Design in Scholarship](blog-posts/value-of-design-scholarship) (January 26, 2017)
 
 [GIS in Humanities](blog-posts/GIS-in-history) (February 9, 2017)
+
+[GIS DH Project Review](blog-posts/GIS-DH-project-review) (February 16, 2017)
