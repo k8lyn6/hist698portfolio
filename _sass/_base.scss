@@ -11,7 +11,9 @@ dl, dd, ol, ul, figure {
 
 
 /** Variables **********************************************/
-$base-font-family:              Helvetica, sans-serif;
+$base-font-family:              Raleway, sans-serif;
+$header-font-family:            Architects Daughter, cursive;
+$heading-font-family:           Architects Daughter, cursive;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
@@ -29,7 +31,7 @@ $orange: #F29105;
 $blue: #2698BA;
 $green: #11D68B;
 $lime_green: #B7D12A;
-$purple: #B509AC;
+$purple: #9370DB;
 
 
 $grey-color-dark: #333;   /* footer */
@@ -37,7 +39,7 @@ $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
 
 /* Set theme color *************************/
-$theme-color:   $red;
+$theme-color:   $purple;
 
 
 /************************************************************/
@@ -52,7 +54,11 @@ body {
     font-weight: 100;
     color: $text-color;
     background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 110%;
+}
+h1 {
+  font-family: $heading-font-family;
+  color: $theme-color;
 }
 
 
@@ -144,7 +150,10 @@ article a {
         text-decoration: none;
     }
 }
-
+.blog-index a{
+  color: #666;
+  text-decoration: underline;
+}
 
 
 /**

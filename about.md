@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">

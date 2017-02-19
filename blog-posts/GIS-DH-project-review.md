@@ -4,7 +4,7 @@ title: "GIS DH project reviews"
 ---
 
 # [Animated Atlas of African History](http://www.brown.edu/Research/AAAH/index.htm)
-
+<br/>
 The Animated Atlas of African History presents a number of different themes of African history from 1879-2002 in map form, such as territory names, changing boundaries, conflicts, and economic and demographic trends.
 
 The map serves as a high level visualization of changes over time within the continent. It makes it easy to quickly see the rise and fall of parties in areas of Africa, where conflicts occurred, and the fluidity of borders over time. However, the map covers a very large span of time, and there is not a lot of additional information within the map to help me understand the purpose it might serve other than being a neat high-level visualization. The notes section of the project states that the map is a "general reference tool."
@@ -15,7 +15,7 @@ The website overall is simple but easy to navigate and clear, which helps the us
 
 
 # [Texas Slavery Project](http://www.texasslaveryproject.org/)
-
+<br/>
 Although I am familiar with this project from my last DH class, I thought it would be interesting to revisit it. The Texas Slavery Project contains a map on "the changing flows of enslaved and slaveholder populations in Texas over time."
 
 The map shows the density of slaves and slaveholders per county over a span of eight years. Though some of this data could be just as effective in a graph (which they also provide), I think it is interesting to see it geographically because you can see how the population of slaves and slaveholders grew and spread over those eight years. It feels more firmly attached to place, and you can see the pockets of counties that started with relatively few slaves but had many by the last date in the map.
@@ -28,7 +28,7 @@ I will admit that the colors are slightly off-putting at first. However, it kind
 The shading of the map along with the key is a little confusing. I understand what "shaded by total slaves" and "shaded by total slaveholders" means, but I don't understand the rest of them. I feel like the map could have been separated into multiple maps to make it clearer to the user what is depicted.
 
 # [Driving Through Time](http://docsouth.unc.edu/blueridgeparkway/)
-
+<br/>
 The Driving Through Time project attempts to root primary sources within their location on the Blue Ridge Parkway. Rather than use maps as a way to research or analyze, this project appears to be pure visualization to give the user the experience of driving the Blue Ridge Parkway through time as a "digital tourist."
 
 It is clear that the project tries to provide an experience through attaching pictures, stories, and information to geographic spaces. It is hard to say that this is necessary; the primary information is likely still effective standing alone. However, the feeling of "driving the Blue Ridge Parkway" would not be as easy to capture without the mapping.
