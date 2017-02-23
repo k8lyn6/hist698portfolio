@@ -237,11 +237,11 @@ height: 230px;
 overflow: hidden;
 }
 .thumbnail img{
-width: 500px;
+width: 230px;
 height: auto;
 position: relative;
-left: -25%;
-top: -5%;
+// left: -25%;
+// top: -5%;
 }
 .thumbnail a{
 float: left;
@@ -263,6 +263,12 @@ text-align: center;
 }
 .thumbnail a:hover span {
 display: block;
+}
+.thumbnail h1 {
+  font-family: $heading-font-family;
+}
+.thumbnail p {
+  font-family: $base-font-family;
 }
 /**
  * Portfolio pages **********************************************************
