@@ -5,7 +5,7 @@
 .site-header {
 border-bottom: 1px solid $grey-color-light;
 background-color: #fff;
-opacity: 0.75;
+// opacity: 0.75;
 position:fixed;
 left:0px;
 top:0px;
@@ -17,7 +17,7 @@ z-index: 50;
 .site-title {
 font-size: 20px;
 line-height: $nav-height;
-letter-spacing: -1px;
+letter-spacing: 1px;
 margin-bottom: 0;
 &:hover {
 text-decoration: none;
@@ -78,7 +78,7 @@ text-decoration: none;
     position: relative;
     font-size: 20px;
     display: block;
-    opacity: 0.75;
+    opacity: .75;
     width: 100%;
     text-align: center;
     padding-top: 10px;
@@ -89,6 +89,8 @@ text-decoration: none;
         font-family: $header-font-family;
         font-size:75px;
         padding-bottom: 10px;
+        letter-spacing: 1px;
+
     }
     h2{
         font-size:25px;
@@ -153,17 +155,20 @@ text-align: center;
 /**
  * Posts  **********************************************************
  */
-.post-header {
+.post-header{
 margin-bottom: $vertical-spacing-unit;
 }
+
 .post-title {
 font-size: 42px;
-letter-spacing: -1px;
+// text-align: center;
+letter-spacing: 1px;
 line-height: 1;
 @include media-query($on-laptop) {
 font-size: 36px;
     }
 }
+
 .post-content {
 h1,h2,h3,h4,h5 {
   font-family: $base-font-family;
@@ -198,11 +203,17 @@ margin-bottom: 0px;
 display: block;
 font-size: 42px;
 }
-
+.blog-dates {
+  padding-top: 10px;
+}
+.blog-dates h2 {
+  font-size: $caption_font_size;
+  // text-align: center;
+}
 /** Poem formatting ********************************************/
 .poem-title {
 font-size: 24px;
-letter-spacing: -1px;
+letter-spacing: 1px;
 line-height: 1;
 @include media-query($on-laptop) {
 font-size: 16px;
