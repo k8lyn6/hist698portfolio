@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Project
 description: a project with a background image
 img: /img/hp1.jpg
