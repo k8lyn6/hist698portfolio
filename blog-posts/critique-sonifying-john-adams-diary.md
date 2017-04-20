@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A Critique of *Sonifying John Adams' Diary*"
+title: "A Critique of "Sonifying John Adams' Diary""
 date: April 13, 2017
 update: April 20, 2017
 ---
