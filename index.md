@@ -2,9 +2,10 @@
 layout: home
 title: "Kaitlyn Sisk"
 ---
+Hi y'all, and welcome to my site!
 
-This is my index page. I'm still playing around with the content, so this is dummy text. Also, I am terrible at design and despite reading a whole book on typography, I have no eye for these sorts of things. And now I've let my cup of tea get cold trying to make the nav bar work.
+I am a soon-to-be graduate of the University of Michigan School of Information, where I specialized in preservation of information. I'm interested in the technical sides of preserving and providing access to information. I'm also interested in the new things we can do with that information through digital methods.
 
-Now, I will continue the text on this page with [Harry Potter Ipsum](http://www.christinachern.com/hpipsum/).
+This is the home of my [HIST 698](http://fredgibbs.net/courses/digital-methods/index.html) portfolio, where I have been exploring the digital humanities field through blog posts and small methodological projects. Like many digital humanities endeavors, this site is a work in progress.
 
-Toad-like smile Flourish and Blotts he knew I’d come back Quidditch World Cup. Fat Lady baubles banana fritters fairy lights Petrificus Totalus. So thirsty, deluminator firs’ years follow me 12 inches of parchment. Head Boy start-of-term banquet Cleansweep Seven roaring lion hat. Unicorn blood crossbow mars is bright tonight, feast Norwegian Ridgeback. Come seek us where our voices sound, we cannot sing above the ground, Ginny Weasley bright red. Fanged frisbees, phoenix tears good clean match.
+I created this website using GitHub and Jekyll, and the theme is adapted from [folio](https://github.com/bogoli/-folio) with some modifications. This is the third class where I've had to create some sort of website, but it's the first one I've been willing to include on my resume (so, thanks Fred for showing me an accessible way to build a site)!
