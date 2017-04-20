@@ -14,4 +14,4 @@ title: "blog posts"
 
 [Critiquing Digital Scholarship](/blog-posts/critiquing-digital-scholarship.md) (March 29, 2017)
 
-[A Critique of "Sonifying John Adams' Diary"](/blog-posts/critique-sonifying-john-adams-diary.md) (April 13, 2017)
+[A Critique of Sonifying John Adams' Diary](/blog-posts/critique-sonifying-john-adams-diary.md) (April 13, 2017)
