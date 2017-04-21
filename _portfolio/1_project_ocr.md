@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Discovering Optimal Digitization Specifications for OCR Output
+title: Discovering Optimal Digitization Specs for OCR Output
 img:
 ---
 <div class="author-note">

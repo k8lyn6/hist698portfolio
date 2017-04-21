@@ -10,6 +10,7 @@ I am an aspiring digital humanities/digital scholarship librarian -- I like play
 
 Some fun facts about me:
 
+- I'm a Hufflepuff!
 - I get really excited when I can solve a problem by writing a Python script
 - I am from Texas and, though I don't really identify as a Texan, I use the world "y'all" obsessively
 - I want to be on the Great British Bake Off when I grow up

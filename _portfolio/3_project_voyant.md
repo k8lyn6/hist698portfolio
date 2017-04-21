@@ -2,7 +2,7 @@
 layout: page
 title: Text Mining the Music Time in Africa scripts
 description:
-img:
+img: /img/voyant-post/titlepage.png
 
 ---
 
