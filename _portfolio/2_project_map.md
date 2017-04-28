@@ -5,7 +5,6 @@ date: Posted March 19, 2017
 img: /img/mtiamap.png
 ---
 <br/>
-<br/>
 # Challenges in mapping
 <br/>
 As we move through different digital humanities tools and methods in this class, I have seen a few themes emerge across the discipline. First is the theme of scholarly review. We have discussed the need for more avenues of (and just more, in general) reviewing and critiquing digital humanities scholarship. We have talked about digital means of publication and communication (such as Twitter and blogs) that allow scholars to share ideas and scholarship while inviting feedback. However, many digital humanities methods rely on those critiquing to understand the methods to be able to provide helpful and solid criticism. Scholars must also be willing and able to provide their methods within their scholarship for others to review. Both of these seem to be challenges within the field.

@@ -6,7 +6,6 @@ update: Updated March 8, 2017
 categories:
 ---
 <br/>
-<br/>
 # Introduction
 <br/>
 In her article [_"This Is Why We Fight": Defining the Values of the Digital Humanities_](http://dhdebates.gc.cuny.edu/debates/text/13), Lisa Spiro argues that the digital humanities community should adopt a set of values "to communicate its identity to itself and the general public, guide its priorities, and perhaps heal its divisions." She proposes five values as a starting point for discussion of these values. I am not an historian by training, but it seems that these five values could potentially be helpful to consider in the field of history.

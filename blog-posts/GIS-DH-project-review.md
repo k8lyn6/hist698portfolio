@@ -6,7 +6,6 @@ update: Updated March 8, 2017
 categories:
 ---
 <br/>
-<br/>
 # Animated Atlas of African History
 <br/>
 [The Animated Atlas of African History](http://www.brown.edu/Research/AAAH/index.htm) presents a number of different themes of African history from 1879-2002 in map form, such as territory names, changing boundaries, conflicts, and economic and demographic trends.

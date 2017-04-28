@@ -5,7 +5,6 @@ date: Posted January 19, 2017
 categories:
 ---
 <br/>
-<br/>
 Throughout my undergraduate and graduate studies, I have encountered some professors and professionals who have strong online presences. Many of them advocated for young professionals to try out various ways of cultivating their own online presence, but I have not felt a strong desire to do so until recently. Since I hope to become a digital humanities/digital scholarship/digital projects librarian or archivist at a university library, I believe that creating some sort of online presence will be important. Some aspects and media appeal to me more than others, and I will discuss a few of my misgivings and excitement below.
 <br/>
 <br/>

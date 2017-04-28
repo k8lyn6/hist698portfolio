@@ -6,7 +6,6 @@ update: Updated April 19, 2017
 categories:
 ---
 <br/>
-<br/>
 I am still new to the digital humanities field, but this class has taught me that it is necessary to critically look at digital humanities scholarship. Though it's easy to get swept away by "cool" looking visualizations or interesting new methods, we need to move past the "virtual high fives" as [Blevins](http://www.cameronblevins.org/posts/the-new-wave-of-review/) puts it and start taking a deeper look about how DH scholarship contributes to the humanities field outside of DH. **We need to think about what criteria are important for evaluating this new kind of scholarship, keeping in mind both the traditional values of good scholarship in humanities and the values that might prove necessary with new methods and media.**
 <br>
 <br>

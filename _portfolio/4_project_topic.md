@@ -7,7 +7,6 @@ description:
 img:
 ---
 <br/>
-<br/>
 # Topic Modeling and Music Time in Africa
 <br/>
 Another method, another set of Music Time in Africa experiments! In class, we have moved to topic modeling. Though I had an introduction to topic modeling, I have never tried to run a topic model myself.

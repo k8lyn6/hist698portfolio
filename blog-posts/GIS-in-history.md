@@ -5,7 +5,6 @@ date: Posted February 9, 2017
 categories:
 ---
 <br/>
-<br/>
 # Reading reflection
 <br/>
 I believe that GIS can be a tremendous asset for certain humanities projects if it is used thoughtfully. Like a number of digital humanities tools, GIS can be a way to analyze and visualize a large dataset or body of work in a way that might not be possible for a person to do.

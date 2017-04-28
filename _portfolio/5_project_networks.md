@@ -6,7 +6,6 @@ update: Updated April 21, 2017
 img: /img/network-post.png
 ---
 <br/>
-<br/>
 # Choosing a topic
 <br>
 This week's challenge was to demonstrate an example of network analysis in our research. Since I'm an aspiring librarian with no real subject research interests, I've been trying to use data from *Music Time in Africa*, the archival project I'm currently working on.
