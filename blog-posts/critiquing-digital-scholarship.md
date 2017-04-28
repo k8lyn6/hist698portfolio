@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Critiquing Digital Scholarship"
-date: March 29, 2017
-update: April 19, 2017
+date: Posted March 29, 2017
+update: Updated April 19, 2017
 categories:
 ---
-
-
+<br/>
+<br/>
 I am still new to the digital humanities field, but this class has taught me that it is necessary to critically look at digital humanities scholarship. Though it's easy to get swept away by "cool" looking visualizations or interesting new methods, we need to move past the "virtual high fives" as [Blevins](http://www.cameronblevins.org/posts/the-new-wave-of-review/) puts it and start taking a deeper look about how DH scholarship contributes to the humanities field outside of DH. **We need to think about what criteria are important for evaluating this new kind of scholarship, keeping in mind both the traditional values of good scholarship in humanities and the values that might prove necessary with new methods and media.**
 <br>
 <br>
@@ -37,4 +37,4 @@ Another tough question for criticism is sustainability. Traditionally, scholars 
 <br>
 # What needs to change?
 <br>
-So, with a few of these criteria in mind, what needs to change within the field to enact these criteria in reviews? I think digital humanists need to become more comfortable walking between digital humanities circles and their subject fields. Perhaps digital humanities scholarship should attempt to fit back in with reviewing of more "traditional" scholarship. Yes, there are some aspects of digital scholarship that may initially seem out of place, such as design and a need to detail methodology. **However, it seems to me that digital humanities has not done as good of a job engaging within subject fields as well as it has engaged with the public and within itself.** By outlining some of the criteria for criticizing digital humanities scholarship and opening up opportunities to engage with scholars outside of DH, I think we can move away from the "virtual high fives" and into deeper thinking about how digital scholarship fits within current scholarship. 
+So, with a few of these criteria in mind, what needs to change within the field to enact these criteria in reviews? I think digital humanists need to become more comfortable walking between digital humanities circles and their subject fields. Perhaps digital humanities scholarship should attempt to fit back in with reviewing of more "traditional" scholarship. Yes, there are some aspects of digital scholarship that may initially seem out of place, such as design and a need to detail methodology. **However, it seems to me that digital humanities has not done as good of a job engaging within subject fields as well as it has engaged with the public and within itself.** By outlining some of the criteria for criticizing digital humanities scholarship and opening up opportunities to engage with scholars outside of DH, I think we can move away from the "virtual high fives" and into deeper thinking about how digital scholarship fits within current scholarship.

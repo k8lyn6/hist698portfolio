@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Text Mining the Music Time in Africa scripts
-description:
+date: Posted March 16, 2017
 img: /img/voyant-post/titlepage.png
 
 ---
-
+<br/>
+<br/>
 # The value of Voyant for *Music Time in Africa*
 <br/>
 In my [previous digital humanities class](http://ricedh.github.io/), my classmates and I collaboratively worked on a project involving runaway slave advertisements in Texas newspapers. We each had the opportunity to work extensively with a particular DH tool. My group used Palladio to map locations mentioned in jailer's notices, but I got to hear from another group who used Voyant to analyze our corpus of advertisements. The Voyant group pointed out in their write up that Voyant was helpful because runaway slave advertisements tend to follow the same patterns of writing and format, <strong>which makes it difficult to do close readings because everything looks very similar.</strong>

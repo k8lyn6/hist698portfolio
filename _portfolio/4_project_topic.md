@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Topic Modeling Music Time in Africa Scripts
+date: Posted March 23, 2017
+update: Updated April 21, 2017
 description:
 img:
 ---
-
+<br/>
+<br/>
 # Topic Modeling and Music Time in Africa
 <br/>
 Another method, another set of Music Time in Africa experiments! In class, we have moved to topic modeling. Though I had an introduction to topic modeling, I have never tried to run a topic model myself.

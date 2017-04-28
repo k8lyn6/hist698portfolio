@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "GIS in Humanities"
-date: February 9, 2017
+date: Posted February 9, 2017
 categories:
 ---
+<br/>
 <br/>
 # Reading reflection
 <br/>

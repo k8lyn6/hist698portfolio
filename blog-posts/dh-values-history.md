@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Digital Humanities Values and History"
-date: January 9, 2017
+date: Posted January 9, 2017
 update: Updated March 8, 2017
 categories:
 ---
+<br/>
 <br/>
 # Introduction
 <br/>

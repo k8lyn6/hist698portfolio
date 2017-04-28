@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "A Critique of Sonifying John Adams' Diary"
-date: April 13, 2017
-update: April 20, 2017
+date: Posted April 13, 2017
+update: Updated April 20, 2017
 ---
-
+<br/>
+<br/>
 During the past semester, our class has had many conversations about the definition of digital humanities and digital scholarship, and whether they should be seen as separate from traditional humanities or scholarship. One tentative conclusion we came up with is that digital humanities is about rethinking what scholarship is in an increasingly digital world.
 
 My task for this week was to review a digital humanities project, keeping in mind some of the things we've discussed over the course of this class. Since one of the major takeaways I got out of this class was that one potential definition of digital humanities is about questioning what scholarship is, I decided to go a little bit out there in choosing a project to review.

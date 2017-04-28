@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "GIS DH project reviews"
-date: February X, 2017
+date: February 16, 2017
 update: Updated March 8, 2017
 categories:
 ---
+<br/>
 <br/>
 # Animated Atlas of African History
 <br/>

@@ -1,12 +1,16 @@
 ---
 layout: page
 title: Discovering Optimal Digitization Specs for OCR Output
+date: Posted March 23, 2017
 img:
 ---
+<br/>
+<br/>
 <div class="author-note">
 Author's Note: This project description is a work in progress. I will be presenting a student poster on this study at the annual Society of American Archivists conference in July, and in the meantime, I will be conducting more research on OCR softwares and digitization best practices to better understand the results we found through this study.
 </div>
-
+<br/>
+<br/>
 As part of my work on the NEH grant project, "Ethical Access to *Music Time in Africa*," I conducted a study to find the optimal digitization specifications for our scripts to produce the cleanest possible optical character recognition (OCR) transcripts. We hope to use the OCR transcripts in the background of the access system to allow users to search for words that aren't included in catalog records.
 
 The collection of scripts is mostly comprised of photocopies of the original scripts typed on dot matrix paper, but we also have some original typed scripts on dot matrix paper. The photocopies aren't the most pristine -- most appear visibly fuzzy and contain handwritten notes. This creates a lot of noise when we run the digitized scripts through the OCR software.

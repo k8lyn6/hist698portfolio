@@ -12,6 +12,6 @@ title: "blog posts"
 
 [GIS DH Project Review](/blog-posts/GIS-DH-project-review) (February 16, 2017)
 
-[Critiquing Digital Scholarship](/blog-posts/critiquing-digital-scholarship.md) (March 29, 2017)
+[Critiquing Digital Scholarship](/blog-posts/critiquing-digital-scholarship) (March 29, 2017)
 
-[A Critique of Sonifying John Adams' Diary](/blog-posts/critique-sonifying-john-adams-diary.md) (April 13, 2017)
+[A Critique of Sonifying John Adams' Diary](/blog-posts/critique-sonifying-john-adams-diary) (April 13, 2017)
